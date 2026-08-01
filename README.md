@@ -41,7 +41,12 @@ The project covers the complete analytics workflow:
 # 📂 Project Structure
 
 ```
+📂 Project Structure
 Retail-Sales-Analysis/
+│
+├── SQL
+│   ├── retail_sales.sql
+│   ├── data_cleaning_queries.sql
 │
 ├── Datasets
 │   ├── raw_data.csv
@@ -57,8 +62,6 @@ Retail-Sales-Analysis/
 │   ├── dashboard.png
 │
 └── README.md
-```
-
 ---
 
 # 📊 SQL Data Cleaning & EDA
